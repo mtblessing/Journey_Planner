@@ -1,1 +1,7 @@
-# Journey_Planner
+- Project Description
+- The Journey Planner App is a mobile application that helps users plan their trips efficiently. It offers features like:
+- Route planning: Find the best route for your journey considering various modes of transportation (car, public transport, walking, cycling, etc.) and real-time traffic information.
+- Multi-stop support: Plan journeys with multiple stops and optimize the travel sequence.
+- Estimated travel times: Get accurate estimated travel times for each leg of your trip.
+- Live updates: Stay informed about delays, disruptions, and changes to public transport schedules.
+- Points of interest: Discover interesting places along your route or at your destination.
